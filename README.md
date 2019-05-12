@@ -12,7 +12,8 @@ Two Angular sites sharing a common library between them in a Monorepo repository
 
 ## Get Started
 
-Run one of the sites from a terminal with `npm run start:m` or `npm run start:l` .
+1. Install with `npm i`
+2. Run one of the sites from a terminal with `npm run start:m` or `npm run start:l`
 
 See below for more details on other scripts added to this project.
 
