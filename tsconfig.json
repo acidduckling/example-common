@@ -17,6 +17,16 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "frl-common": [
+        "projects/frl-common/src/public-api.ts"
+        // "dist/frl-common"
+      ],
+      "frl-common/*": [
+        "projects/frl-common/*"
+        // "dist/frl-common/*"
+      ]
+    }
   }
 }

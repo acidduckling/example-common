@@ -1,27 +1,102 @@
-# Monorepo
+# Monorepo Example Setup
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+Two Angular sites sharing a common library between them in a Monorepo repository.
 
-## Development server
+- Shared node_modules folder between all projects (eg bootstrap installed ONCE but used in all)
+- Dynamic module loading from common
+- Debugging Common from any of the web projects, with correct source mapping
+- All projects managed from angular.json
+- Both debug and headless unit test configurations
+- Common is used like a library, though its available in the monorepo (useful for source maps for debugging). Simple tsconfig change can update this.
+- Common can also be published as a node package at any time with `npm run build:c` - tha package will be available in `dist/frl-common/frl-common-x.x.x.tgz` 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Get Started
 
-## Code scaffolding
+Run one of the sites from a terminal with `npm run start:m` or `npm run start:l` .
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+See below for more details on other scripts added to this project.
 
-## Build
+## Setting up a monorepo style project
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+This project was structured using Angular CLI. Equally, something like NRWL NX could have been used, and actually has a similar folder structure.
 
-## Running unit tests
+```bash
+ng new --createApplication=false monorepo
+cd monorepo
+ng g application frl-manage --prefix=frl
+ng g application frl-lodge --prefix=frl
+ng g library frl-common --prefix=frl
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Tests
 
-## Running end-to-end tests
+Run tests to generate coverage reports:
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+- Run individual Common test: `npm run test:c` 
+- Run individual Lodge test: `npm run test:l` 
+- Run individual Manage test: `npm run test:m` 
+- Run ALL tests: `npm run test:all` 
 
-## Further help
+Coverage reports are combined using Istanbul-Combiner package.
+After running all tests, view the final coverage report in the browser with `npm run start:cover` 
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### Developing Tests
+
+Develop tests with the alternate Karma configurations. The tests will be run in watch mode.
+
+- Develop Common tests: `npm run dtest:c` 
+- Develop Lodge tests: `npm run dtest:l` 
+- Develop Manage tests: `npm run dtest:m` 
+
+## Running the project
+
+Each of the projects can be launched with
+
+- Manage Project: `npm run start:m` 
+- Lodge Project: `npm run start:l` 
+
+## AOT Production Builds
+
+Run a production build with one of the following commands. The files will be output to the `dist` folder.
+
+- Production build for Lodge Project: `npm run build:l` 
+- Production build for Manage Project: `npm run build:m` 
+- Production build for All Projects: `npm run build:all` 
+
+You can test the prod build locally by running
+
+- View Production site for Lodge: `npm run start:pl` 
+- View Production site for Manage: `npm run start:pm` 
+
+## Shared Components
+
+Shared components located in the `frl-common` project can be specified with the `@RegisterWidget()` decorator (located in frl-common). THis will register this component in a widget registry, so it can be dynamically loaded in any project.
+
+You must provide the name of the component as an argument - this is because AOT will obfuscate the class names in the minification process, and therefore break the build.
+
+```typescript
+import { RegisterWidget } from 'frl-common'; 
+// Registering a component
+@RegisterWidget('MyTest')
+export class MyTestComponent {
+  // ....
+}
+
+// Retrieving a component
+
+export class ContainerComponent implements OnInit {
+  // This template reference will be the destination for the dynamically loaded widget
+  @ViewChild('hostElement', { read: ViewContainerRef }) widgetHost: ViewContainerRef; 
+
+  constructor(private dynamicComponent: DynamicComponentService) {}
+
+  ngOnInit(): void {
+    this.loadComponent('list'); 
+  }
+
+  loadComponent(componentName: string): void {
+    this.dynamicComponent.loadWidget(componentName, this.widgetHost); 
+  }
+}
+```
+
