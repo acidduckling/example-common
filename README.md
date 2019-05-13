@@ -78,7 +78,7 @@ You must provide the name of the component as an argument - this is because AOT 
 ```typescript
 import { RegisterWidget } from 'frl-common'; 
 // Registering a component
-@RegisterWidget('MyTest')
+@RegisterWidget('mytest')
 export class MyTestComponent {
   // ....
 }
@@ -92,7 +92,7 @@ export class ContainerComponent implements OnInit {
   constructor(private dynamicComponent: DynamicComponentService) {}
 
   ngOnInit(): void {
-    this.loadComponent('list'); 
+    this.loadComponent('mytest'); 
   }
 
   loadComponent(componentName: string): void {
