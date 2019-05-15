@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/browser",
+            "outputPath": "dist/browser/frl-manage",
             "index": "projects/frl-manage/src/index.html",
             "main": "projects/frl-manage/src/main.ts",
             "polyfills": "projects/frl-manage/src/polyfills.ts",
@@ -108,7 +108,7 @@
         "server": {
           "builder": "@angular-devkit/build-angular:server",
           "options": {
-            "outputPath": "dist/server",
+            "outputPath": "dist/server/frl-manage",
             "main": "projects/frl-manage/src/main.server.ts",
             "tsConfig": "projects/frl-manage/tsconfig.server.json"
           },
@@ -167,7 +167,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/frl-lodge",
+            "outputPath": "dist/browser/frl-lodge",
             "index": "projects/frl-lodge/src/index.html",
             "main": "projects/frl-lodge/src/main.ts",
             "polyfills": "projects/frl-lodge/src/polyfills.ts",

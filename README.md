@@ -112,5 +112,5 @@ ng add @nguniversal/express-engine --clientProject frl-manage
 To server Dynamic SSR:
 
 ```bash
-npm run build:ssr && npm run serve:ssr
+npm run build:ssr:m && npm run serve:ssr:m
 ```

@@ -19,10 +19,10 @@
     "dtest:m": "ng test frl-manage --karma-config=projects/frl-manage/karma.conf.dev.js",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "compile:server": "webpack --config webpack.server.config.js --progress --colors",
-    "serve:ssr": "node dist/server",
-    "build:ssr": "npm run build:client-and-server-bundles && npm run compile:server",
-    "build:client-and-server-bundles": "ng build --prod && ng run frl-manage:server:production"
+    "compile:server:m": "webpack --config server/frl-manage/webpack.server.config.js --progress --colors",
+    "serve:ssr:m": "node dist/server/frl-manage/server",
+    "build:ssr:m": "npm run build:client-and-server-bundles:m && npm run compile:server:m",
+    "build:client-and-server-bundles:m": "ng build --prod && ng run frl-manage:server:production"
   },
   "private": true,
   "dependencies": {
