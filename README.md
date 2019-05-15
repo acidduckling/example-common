@@ -100,3 +100,16 @@ export class ContainerComponent implements OnInit {
 }
 ```
 
+## Angular Universal (Server Side Rendering)
+
+SSR is now configured with Angular CLI schematics. Run the following command (pointing to the project to configure):
+
+```bash
+ng add @nguniversal/express-engine --clientProject frl-manage
+```
+
+To server Dynamic SSR:
+
+```bash
+npm run build:ssr && npm run serve:ssr
+```
