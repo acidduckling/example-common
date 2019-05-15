@@ -1,0 +1,20 @@
+{
+  "extends": "./tsconfig.app.json",
+  "compilerOptions": {
+    "outDir": "../../out-tsc/app-server",
+    "baseUrl": ".",
+    "paths": {
+      "frl-common": [
+        "../frl-common/src/public-api.ts"
+        // "dist/frl-common"
+      ],
+      "frl-common/*": [
+        "../frl-common/*"
+        // "dist/frl-common/*"
+      ]
+    }
+  },
+  "angularCompilerOptions": {
+    "entryModule": "src/app/app.server.module#AppServerModule"
+  }
+}
