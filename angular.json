@@ -3,6 +3,8 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
+
+
     "frl-manage": {
       "root": "projects/frl-manage/",
       "sourceRoot": "projects/frl-manage/src",
@@ -105,6 +107,7 @@
             ]
           }
         },
+
         "server": {
           "builder": "@angular-devkit/build-angular:server",
           "options": {
@@ -123,36 +126,11 @@
             }
           }
         }
+
       }
     },
-    "frl-manage-e2e": {
-      "root": "projects/frl-manage-e2e/",
-      "projectType": "application",
-      "prefix": "",
-      "architect": {
-        "e2e": {
-          "builder": "@angular-devkit/build-angular:protractor",
-          "options": {
-            "protractorConfig": "projects/frl-manage-e2e/protractor.conf.js",
-            "devServerTarget": "frl-manage:serve"
-          },
-          "configurations": {
-            "production": {
-              "devServerTarget": "frl-manage:serve:production"
-            }
-          }
-        },
-        "lint": {
-          "builder": "@angular-devkit/build-angular:tslint",
-          "options": {
-            "tsConfig": "projects/frl-manage-e2e/tsconfig.e2e.json",
-            "exclude": [
-              "**/node_modules/**"
-            ]
-          }
-        }
-      }
-    },
+
+
     "frl-lodge": {
       "root": "projects/frl-lodge/",
       "sourceRoot": "projects/frl-lodge/src",
@@ -255,37 +233,30 @@
               "**/node_modules/**"
             ]
           }
-        }
-      }
-    },
-    "frl-lodge-e2e": {
-      "root": "projects/frl-lodge-e2e/",
-      "projectType": "application",
-      "prefix": "",
-      "architect": {
-        "e2e": {
-          "builder": "@angular-devkit/build-angular:protractor",
+        },
+
+        "server": {
+          "builder": "@angular-devkit/build-angular:server",
           "options": {
-            "protractorConfig": "projects/frl-lodge-e2e/protractor.conf.js",
-            "devServerTarget": "frl-lodge:serve"
+            "outputPath": "dist/server/frl-lodge",
+            "main": "projects/frl-lodge/src/main.server.ts",
+            "tsConfig": "projects/frl-lodge/tsconfig.server.json"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "frl-lodge:serve:production"
+              "fileReplacements": [
+                {
+                  "replace": "projects/frl-lodge/src/environments/environment.ts",
+                  "with": "projects/frl-lodge/src/environments/environment.prod.ts"
+                }
+              ]
             }
-          }
-        },
-        "lint": {
-          "builder": "@angular-devkit/build-angular:tslint",
-          "options": {
-            "tsConfig": "projects/frl-lodge-e2e/tsconfig.e2e.json",
-            "exclude": [
-              "**/node_modules/**"
-            ]
           }
         }
       }
     },
+
+
     "frl-common": {
       "root": "projects/frl-common",
       "sourceRoot": "projects/frl-common/src",

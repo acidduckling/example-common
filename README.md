@@ -8,7 +8,7 @@ Two Angular sites sharing a common library between them in a Monorepo repository
 - All projects managed from angular.json
 - Both debug and headless unit test configurations
 - Common is used like a library, though its available in the monorepo (useful for source maps for debugging). Simple tsconfig change can update this.
-- Common can also be published as a node package at any time with `npm run build:c` - tha package will be available in `dist/frl-common/frl-common-x.x.x.tgz` 
+- Common can also be published as a node package at any time with `npm run build:c` - tha package will be available in `dist/frl-common/frl-common-x.x.x.tgz`
 
 ## Get Started
 
@@ -32,41 +32,61 @@ ng g library frl-common --prefix=frl
 
 Run tests to generate coverage reports:
 
-- Run individual Common test: `npm run test:c` 
-- Run individual Lodge test: `npm run test:l` 
-- Run individual Manage test: `npm run test:m` 
-- Run ALL tests: `npm run test:all` 
+- Run individual Common test: `npm run test:c`
+- Run individual Lodge test: `npm run test:l`
+- Run individual Manage test: `npm run test:m`
+- Run ALL tests: `npm run test:all`
 
 Coverage reports are combined using Istanbul-Combiner package.
-After running all tests, view the final coverage report in the browser with `npm run start:cover` 
+After running all tests, view the final coverage report in the browser with `npm run start:cover`
 
 ### Developing Tests
 
 Develop tests with the alternate Karma configurations. The tests will be run in watch mode.
 
-- Develop Common tests: `npm run dtest:c` 
-- Develop Lodge tests: `npm run dtest:l` 
-- Develop Manage tests: `npm run dtest:m` 
+- Develop Common tests: `npm run dtest:c`
+- Develop Lodge tests: `npm run dtest:l`
+- Develop Manage tests: `npm run dtest:m`
 
 ## Running the project
 
 Each of the projects can be launched with
 
-- Manage Project: `npm run start:m` 
-- Lodge Project: `npm run start:l` 
+- Manage Project: `npm run start:m`
+- Lodge Project: `npm run start:l`
 
-## AOT Production Builds
+## AOT Production Builds (Client files)
 
 Run a production build with one of the following commands. The files will be output to the `dist` folder.
 
-- Production build for Lodge Project: `npm run build:l` 
-- Production build for Manage Project: `npm run build:m` 
-- Production build for All Projects: `npm run build:all` 
+- Production build for Lodge Project: `npm run build:l`
+- Production build for Manage Project: `npm run build:m`
+- Production build for All Projects: `npm run build:all`
 
 You can test the prod build locally by running
 
-- View Production site for Lodge: `npm run start:pl` 
-- View Production site for Manage: `npm run start:pm` 
+- View Production site for Lodge: `npm run start:pl`
+- View Production site for Manage: `npm run start:pm`
+
+## Angular Universal (Server Side Rendering)
+
+Ensure you have **Webpack CLI** installed globally (`npm i -g webpack-cli`).
+
+### Bulding Angular Universal Project
+
+From the root folder:
+
+- You can build the **Lodge** project with `npm run build:ssr:l`
+- You can build the **Manage** project with `npm run build:ssr:m`
+
+### Serving Angular Universal Project
+
+*First build the AOT Production Client files*
+
+From the root folder:
+
+- You can serve the **Lodge** project with `npm run serve:ssr:l`
+- You can serve the **Manage** project with `npm run serve:ssr:m`
 
 ## Shared Components
 
@@ -75,7 +95,7 @@ Shared components located in the `frl-common` project can be specified with the 
 You must provide the name of the component as an argument - this is because AOT will obfuscate the class names in the minification process, and therefore break the build.
 
 ```typescript
-import { RegisterWidget } from 'frl-common'; 
+import { RegisterWidget } from 'frl-common';
 // Registering a component
 @RegisterWidget('MyTest')
 export class MyTestComponent {
@@ -86,16 +106,16 @@ export class MyTestComponent {
 
 export class ContainerComponent implements OnInit {
   // This template reference will be the destination for the dynamically loaded widget
-  @ViewChild('hostElement', { read: ViewContainerRef }) widgetHost: ViewContainerRef; 
+  @ViewChild('hostElement', { read: ViewContainerRef }) widgetHost: ViewContainerRef;
 
   constructor(private dynamicComponent: DynamicComponentService) {}
 
   ngOnInit(): void {
-    this.loadComponent('list'); 
+    this.loadComponent('list');
   }
 
   loadComponent(componentName: string): void {
-    this.dynamicComponent.loadWidget(componentName, this.widgetHost); 
+    this.dynamicComponent.loadWidget(componentName, this.widgetHost);
   }
 }
 ```
