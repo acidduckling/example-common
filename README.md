@@ -12,7 +12,8 @@ Two Angular sites sharing a common library between them in a Monorepo repository
 
 ## Get Started
 
-Run one of the sites from a terminal with `npm run start:m` or `npm run start:l` .
+1. Install with `npm i`
+2. Run one of the sites from a terminal with `npm run start:m` or `npm run start:l`
 
 See below for more details on other scripts added to this project.
 
@@ -77,7 +78,7 @@ You must provide the name of the component as an argument - this is because AOT 
 ```typescript
 import { RegisterWidget } from 'frl-common'; 
 // Registering a component
-@RegisterWidget('MyTest')
+@RegisterWidget('mytest')
 export class MyTestComponent {
   // ....
 }
@@ -91,7 +92,7 @@ export class ContainerComponent implements OnInit {
   constructor(private dynamicComponent: DynamicComponentService) {}
 
   ngOnInit(): void {
-    this.loadComponent('list'); 
+    this.loadComponent('mytest'); 
   }
 
   loadComponent(componentName: string): void {
