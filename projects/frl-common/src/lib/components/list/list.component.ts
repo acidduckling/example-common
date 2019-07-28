@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { RegisterWidget } from '../widget-registry';
+import { RegisterWidget } from '../../decorators/register-widget';
 
 @RegisterWidget('list')
 @Component({
