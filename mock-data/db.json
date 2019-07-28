@@ -1,0 +1,2734 @@
+{
+    "lodgements": [
+        {
+            "name": "Name_cb91be87-9203-47fd-ae70-5f7c926a4cbd",
+            "lodgedDateTime": "2019-07-24T16:04:27.4148781+10:00",
+            "receiptId": "RecIdaa78490319b6453a83c78c3f52d665d8",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_839e969c-edca-4ee9-9316-943c37939bde",
+            "lodgedDateTime": "2019-07-24T16:04:28.8450536+10:00",
+            "receiptId": "RecIddec9602a3af64d93879ad8d4438b336c",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_de63e010-c33f-45a6-b167-e5a7003c92b3",
+            "lodgedDateTime": "2019-07-24T16:04:29.2272228+10:00",
+            "receiptId": "RecId29cecf3e599346f39a3d1521ac86371f",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_70ac4f03-807d-4104-9e8d-a4fb17799898",
+            "lodgedDateTime": "2019-07-24T16:04:29.6022273+10:00",
+            "receiptId": "RecId35fcbc6928a547d796f47c78028c4b5b",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_95365818-8bfb-4b86-a14e-4620e5a1b3ad",
+            "lodgedDateTime": "2019-07-24T16:04:29.6501079+10:00",
+            "receiptId": "RecId2aebffd3b4e542f79943ffb6d24ffa1f",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "PrerogativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_0965b097-3cb7-48ae-811a-259d04f84fdc",
+            "lodgedDateTime": "2019-07-24T16:04:29.6900341+10:00",
+            "receiptId": "RecIde4eb544b0a86475e8530111f32169d7e",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "AdministrativeArrangementsOrder",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_1b37b9da-d6cb-4da9-b48d-a66f43dbbb67",
+            "lodgedDateTime": "2019-07-24T16:04:40.7910516+10:00",
+            "receiptId": "RecId35ebf361b59e43b584dbdc04a6a11406",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "PrerogativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_e5ba1710-256a-4f9f-b5e0-be801a4540ef",
+            "lodgedDateTime": "2019-07-24T16:04:40.8173345+10:00",
+            "receiptId": "RecId5dc45e4656394020aa4a1bc12a027bcd",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "AdministrativeArrangementsOrder",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_84a13ec4-9f6d-4249-a734-5c546d95720c",
+            "lodgedDateTime": "2019-07-24T16:04:51.4009481+10:00",
+            "receiptId": "RecIdf17f10d40d424dd0b59515941e131060",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "PrerogativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_e903f799-977b-413d-bdac-8a10ffde2393",
+            "lodgedDateTime": "2019-07-24T16:04:51.4278747+10:00",
+            "receiptId": "RecId5b360582625f49cd8c808782ca0153bc",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "AdministrativeArrangementsOrder",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_83d4ba03-9bfc-4374-8d5d-cd4203ecd05b",
+            "lodgedDateTime": "2019-07-24T16:04:53.944192+10:00",
+            "receiptId": "RecId7146e3b3691a4644a5add98f04582d4d",
+            "priority": "Routine",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_998b9ed4-60b9-46f1-802c-12b2028f3b5f",
+            "lodgedDateTime": "2019-07-24T16:05:55.3812137+10:00",
+            "receiptId": "RecId9bf103aa4c01476cbcee872d53df6577",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": "officero",
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_317e73d1-d4b8-4942-bde9-eb23b6ab44cd",
+            "lodgedDateTime": "2019-07-24T16:06:05.2814954+10:00",
+            "receiptId": "RecId107d7cbcd6f643f9957207c86c0ce127",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Registered",
+            "allocatedUserName": "officero",
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_73fac4bc-f771-440e-a871-b45565fd636e",
+            "lodgedDateTime": "2019-07-24T16:06:15.6177057+10:00",
+            "receiptId": "RecId313ee87fb6bd4e66be3e4ef07ce9e762",
+            "priority": "Routine",
+            "lodgementState": "Registered",
+            "allocatedUserName": "officero",
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_0e29991c-00a8-4c9d-a549-3045f5421059",
+            "lodgedDateTime": "2019-07-24T16:06:26.220069+10:00",
+            "receiptId": "RecId05ccaf6876a34e8e9a7c37a5d148a227",
+            "priority": "Routine",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_0d61bafe-b998-4649-88b7-646c3b44201f",
+            "lodgedDateTime": "2019-07-24T16:07:10.0421161+10:00",
+            "receiptId": "RecId35bc4e41284345d9bb05a76b728ec6d3",
+            "priority": "Routine",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_eb5c26c4-79af-4d86-b099-7146684cce75",
+            "lodgedDateTime": "2019-07-24T16:07:10.2867657+10:00",
+            "receiptId": "RecId636ba6fc2bae4b9f8202dda348c20cda",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_bafb1efc-dc55-4393-a5e3-b2948b7d0a0b",
+            "lodgedDateTime": "2019-07-24T16:07:13.1901419+10:00",
+            "receiptId": "RecId82638528d2ab4ca7825dbb5bdc068542",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithContactDetails_75ea22b5-59fb-4663-835e-85a7bd345f8a",
+            "lodgedDateTime": "2019-07-24T16:07:45.0215923+10:00",
+            "receiptId": "RecIdbf5f61b0abc244278bb2818561276188",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": "Test Further Requirements Text"
+            }
+        },
+        {
+            "name": "Administrative Arrangements Order",
+            "lodgedDateTime": "2019-07-24T16:07:59.1807201+10:00",
+            "receiptId": "RecId8679263f6ec042ad87bb137af804199e",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "AdministrativeArrangementsOrder",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithNamedDocumentTest_be4200b3-ab96-4c3c-add7-f2484f2ec489",
+            "lodgedDateTime": "2019-07-24T16:08:15.3100586+10:00",
+            "receiptId": "RecId90414dcf414d4eac83314fe54e6027e6",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithContactDetails_8ac370cd-305c-4c16-a0ef-f8c65e149e71",
+            "lodgedDateTime": "2019-07-24T16:08:32.825955+10:00",
+            "receiptId": "RecId5dfe22430f354384bbb435c56e275c92",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": "Test Further Requirements Text"
+            }
+        },
+        {
+            "name": "DoLodgeWithPdfAttachmentTest_fa34989e-f929-4575-b677-fe3b2d84c050",
+            "lodgedDateTime": "2019-07-24T16:08:45.8953568+10:00",
+            "receiptId": "RecId960f81f8ee4b44208ba45d107999918d",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "PrerogativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithDocAttachmentTest_8376cb0f-a567-4c4b-8fe9-b9df2e40adc5",
+            "lodgedDateTime": "2019-07-24T16:08:59.2117778+10:00",
+            "receiptId": "RecId9c60c2fe014644dbb99bbfd60a0cea4f",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithoutAttachmentTest_942c022b-c4be-46fd-81c8-709d71f70453",
+            "lodgedDateTime": "2019-07-24T16:09:13.3035637+10:00",
+            "receiptId": "RecId715d66d1cf7a4c7db9bdea1c17c2095c",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithoutAttachmentTest_7ff19f92-3463-412b-93d9-bb3fa50b3bd3",
+            "lodgedDateTime": "2019-07-24T16:09:23.743085+10:00",
+            "receiptId": "RecIdcaa28fd88b0d4a679aa7e429475efa9b",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "PrerogativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Administrative Arrangements Order",
+            "lodgedDateTime": "2019-07-24T16:09:36.2235512+10:00",
+            "receiptId": "RecIdae8f8fe64d274b41b57c8733b7ea42ed",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "AdministrativeArrangementsOrder",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Lodge_Act_With_Parliament_House_Originating_Bill_5a2c8b80-d2e2-428f-8dd1-7c3193bcd99f",
+            "lodgedDateTime": "2019-07-24T16:09:47.8595444+10:00",
+            "receiptId": "RecId29a890aa65754089a36e6af244081a6b",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithPdfAttachmentTest_4db1d7bc-3f27-48e9-9485-339d6c700c57",
+            "lodgedDateTime": "2019-07-24T16:10:01.133524+10:00",
+            "receiptId": "RecId3af4cb0343574042a8748dbc541744b9",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithDocAttachmentTest_d8145e09-8d8a-4618-ad36-2a5149014fd9",
+            "lodgedDateTime": "2019-07-24T16:10:13.8153273+10:00",
+            "receiptId": "RecIdb9e94cd85e824c6d84f46f86167af9c3",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "PrerogativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithDocAttachmentTest_144c099b-58b0-4b66-8649-8727f27a85c2",
+            "lodgedDateTime": "2019-07-24T16:10:30.192957+10:00",
+            "receiptId": "RecId40e2849a9f2d4161b0bd23ee5d1435da",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithNamedDocumentTest_2dc9da06-0998-40da-9e9f-69550e0a4229",
+            "lodgedDateTime": "2019-07-24T16:10:48.1833954+10:00",
+            "receiptId": "RecIdc6edcb1c754b4fada41c179440111cb7",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithoutAttachmentTest_1b820a90-791a-4535-92fb-af4f170da010",
+            "lodgedDateTime": "2019-07-24T16:11:02.6749905+10:00",
+            "receiptId": "RecId377f15854453470cb7dfe738b0ac5ede",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithPdfAttachmentTest_44ba43ac-28f3-4e1b-ad24-9f3c7db62f80",
+            "lodgedDateTime": "2019-07-24T16:11:17.0032495+10:00",
+            "receiptId": "RecId1e0cbbd585514fc7b5f5480fbb598fd8",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithDocAttachmentTest_7dc2a704-05e1-4040-90eb-1d0d366f2ffc",
+            "lodgedDateTime": "2019-07-24T16:11:31.6910682+10:00",
+            "receiptId": "RecIde9892ba53e7840d3b0c8ed28bac96aea",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithDocAttachmentTest_7e545d02-1628-489f-8ab3-050c3372ab3f",
+            "lodgedDateTime": "2019-07-24T16:11:48.0162294+10:00",
+            "receiptId": "RecId0cd50b286d964b369da667197c46b004",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithNamedDocumentTest_7b89d117-4a5e-4d13-a25b-30dede438cb8",
+            "lodgedDateTime": "2019-07-24T16:12:04.7649954+10:00",
+            "receiptId": "RecId282f46ac380d4f9ead33229cb61e7f6e",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "PrerogativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithPdfAttachmentTest_ba4ca081-169c-457c-984e-deb6d919a5e6",
+            "lodgedDateTime": "2019-07-24T16:12:21.1844853+10:00",
+            "receiptId": "RecId42917e340b214e14aa5e0a69539444bc",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithoutAttachmentTestInBrowser_3113c67e-8aa8-434d-8de4-7811ab358517",
+            "lodgedDateTime": "2019-07-24T16:12:33.6689522+10:00",
+            "receiptId": "RecId722b6f0e1e864d35a07ee1905b2f7e81",
+            "priority": "Routine",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoRegisterThenLodgeAndAutoCompleteItem_4185ede2-570c-4e81-a871-d65169c4bc6c",
+            "lodgedDateTime": "2019-07-24T16:12:40.0475811+10:00",
+            "receiptId": "RecIda9095d9f20ee430a9791a7ee8615caf6",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithoutAttachmentTest_ddd0e7db-7c68-42ac-a10a-c1e25b5e0bb3",
+            "lodgedDateTime": "2019-07-24T16:12:51.4340736+10:00",
+            "receiptId": "RecId1aa07b070606436d8a3479f681ea12b9",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithContactDetails_fb324d51-85df-45e0-9fc9-b35ec9c1d0a4",
+            "lodgedDateTime": "2019-07-24T16:13:05.4177425+10:00",
+            "receiptId": "RecId2b4a4b846d484d2ca369ec0e66dc6789",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithoutAttachmentTestInBrowser_b6cf1743-cdd1-4089-aa63-20cf559df201",
+            "lodgedDateTime": "2019-07-24T16:13:17.0806223+10:00",
+            "receiptId": "RecIdbcc5a77f03a64e598f1b2a3057535bc5",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoRegisterThenLodgeAndAutoCompleteItem_ab04371c-f802-42a0-8b76-ce3ac9cc8c35",
+            "lodgedDateTime": "2019-07-24T16:13:22.1211377+10:00",
+            "receiptId": "RecIdd95c89ad178c454c86e9561ae0f13452",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Administrative Arrangements Order",
+            "lodgedDateTime": "2019-07-24T16:13:35.274336+10:00",
+            "receiptId": "RecId2a4c6d10b0e14610869e4ca9d92d2d7d",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "AdministrativeArrangementsOrder",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithNamedDocumentTest_acffa40b-a2fc-496c-bd85-59bdf089b7bb",
+            "lodgedDateTime": "2019-07-24T16:13:50.6411078+10:00",
+            "receiptId": "RecId226a8c7c2f114d299b2635730a2dda39",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithNamedDocumentTest_c3e321c1-b3e0-42b1-b4a3-0bc111a73ab8",
+            "lodgedDateTime": "2019-07-24T16:14:07.3415132+10:00",
+            "receiptId": "RecIdfa3d5452d061431eb1a1359535b1bae1",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithoutAttachmentTestInBrowser_f8246c08-d813-410d-9c43-1a2206085a39",
+            "lodgedDateTime": "2019-07-24T16:14:21.6824358+10:00",
+            "receiptId": "RecIdedaba96ab6b94fcfa1af1f2a6740d6f0",
+            "priority": "Routine",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoRegisterThenLodgeAndAutoCompleteItem_38dbbc77-71b9-4487-90cb-2098eda15604",
+            "lodgedDateTime": "2019-07-24T16:14:26.7265891+10:00",
+            "receiptId": "RecId2dd0f8a908ab4d1381c48831e6383b69",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithPdfAttachmentTest_513207c4-4a91-40de-8701-dae0c1261dbc",
+            "lodgedDateTime": "2019-07-24T16:14:39.8776024+10:00",
+            "receiptId": "RecIdb516e0b10a154a66bb8284f9a6b1f34c",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithoutAttachmentTestInBrowser_1b117cc5-e216-4edd-9b98-d65059b81eb1",
+            "lodgedDateTime": "2019-07-24T16:14:50.8768173+10:00",
+            "receiptId": "RecId2f54d8b3b42b451d8ed6191d30a7b319",
+            "priority": "Urgent",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoRegisterThenLodgeAndAutoCompleteItem_5928092d-75ac-4efd-910f-8a1689f07d54",
+            "lodgedDateTime": "2019-07-24T16:14:55.517802+10:00",
+            "receiptId": "RecId9a5aaa37de2f47f7a067d96b50ec6c11",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Administrative Arrangements Order",
+            "lodgedDateTime": "2019-07-24T16:15:06.3535899+10:00",
+            "receiptId": "RecId70862b8d795f45a89bdc81d6113783cd",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "AdministrativeArrangementsOrder",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithoutAttachmentTest_e509c2bc-06e8-43e8-a783-45cd4011dea1",
+            "lodgedDateTime": "2019-07-24T16:15:18.6579751+10:00",
+            "receiptId": "RecId273b9d1798264353a75481d5fb324eb2",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_b01199ca-d5b4-4159-a8f1-2685cef86a3d",
+            "lodgedDateTime": "2019-07-24T16:15:20.785447+10:00",
+            "receiptId": "RecIdf3221f8dc07a4d2e97ce47b3f6dd2548",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Registered",
+            "allocatedUserName": "officero",
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Lodge_Act_With_Internal_Originating_Bill_79b35b1f-2463-408d-9ca0-aa832d7e4a52",
+            "lodgedDateTime": "2019-07-24T16:15:32.4004559+10:00",
+            "receiptId": "RecId1b27e5d07d5f49c0ad4c3a41aee86597",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_5131da30-68c7-4bd5-9eb9-9ded35de3fe0",
+            "lodgedDateTime": "2019-07-24T16:15:41.3033082+10:00",
+            "receiptId": "RecId155fe5fa77f348cfb18e9e8b1770ff93",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Registered",
+            "allocatedUserName": "officero",
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_35168a6d-5b4e-4225-bc5d-9406c0734613",
+            "lodgedDateTime": "2019-07-24T16:15:52.2952661+10:00",
+            "receiptId": "RecId897db9d7767742a8989340d987808cbd",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_06b0236d-b304-4647-b463-190757dfe401",
+            "lodgedDateTime": "2019-07-24T16:16:11.4234805+10:00",
+            "receiptId": "RecId8339161af00642a6adcfc132cdfc1ec1",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": "officero",
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_eedc38c9-4fbe-41ad-8281-c5b85e0772bd",
+            "lodgedDateTime": "2019-07-24T16:17:30.8164933+10:00",
+            "receiptId": "RecId0e2ebb4da3454b139294fb28e487cca0",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_585e8332-18d4-421f-b583-5e0dde305303",
+            "lodgedDateTime": "2019-07-24T16:17:30.8718558+10:00",
+            "receiptId": "RecId9356b2ead2ae4a09aa850276a077d223",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_4a898b9f-6b3f-4816-8ec5-41c924d64c50",
+            "lodgedDateTime": "2019-07-24T16:19:47.9966545+10:00",
+            "receiptId": "RecIdfda4a281baeb4ab39777f7dd6de6948b",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": "Test Further Requirements Text"
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithoutAttachmentTest_8206ea87-7d16-4902-a7e1-5b6008e34216",
+            "lodgedDateTime": "2019-07-24T16:20:25.3602086+10:00",
+            "receiptId": "RecId2f2c6f3045a3460a8637c165d15bc615",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithMultipleDocAttachmentTest_95b52bbf-4d9a-4478-85ef-e848f3938511",
+            "lodgedDateTime": "2019-07-24T16:20:47.0764249+10:00",
+            "receiptId": "RecId06dba49990704c878c24b1ed7ed2de9e",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithSingleDocAttachmentTest_226f494f-9612-49bd-b6d5-d51cb6de25e7",
+            "lodgedDateTime": "2019-07-24T16:21:06.8751997+10:00",
+            "receiptId": "RecIde30b95bbdcf64d01b36148a2ef4478e0",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_8e079bdc-0b97-42d4-b176-857b3f38ec82",
+            "lodgedDateTime": "2019-07-24T16:21:48.9842431+10:00",
+            "receiptId": "RecId0e91cfa854da420991b4beffe3eaef87",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_9d841bb1-484b-4322-b883-3edea8314a30",
+            "lodgedDateTime": "2019-07-24T16:22:20.5324381+10:00",
+            "receiptId": "RecId24e0c70cb1dd4860ad74f87f6048f811",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DueDate_b2660e12-b1e9-4726-a962-4ed46aee74fd",
+            "lodgedDateTime": "2019-07-24T16:22:44.1279069+10:00",
+            "receiptId": "RecId72564a257b9045419d99a4a240ff08ea",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": "officero",
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": "On",
+                "registrationDueDate": "2019-04-16T00:00:00+10:00",
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_5a090175-cd85-4a3c-b30f-f48fe708ac3a",
+            "lodgedDateTime": "2019-07-24T16:22:53.6868149+10:00",
+            "receiptId": "RecId1818fb15e4c14bc5a0cbb608a18a473a",
+            "priority": "Routine",
+            "lodgementState": "Registered",
+            "allocatedUserName": "officero",
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Allocate_babe1459-a8d4-4763-bdfc-fca2354ffe6e",
+            "lodgedDateTime": "2019-07-24T16:23:39.001475+10:00",
+            "receiptId": "RecIddc3cd96c0e294356ab9abfe327c93f78",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Allocate_babe1459-a8d4-4763-bdfc-fca2354ffe6e_allocate_test",
+            "lodgedDateTime": "2019-07-24T16:23:48.7098325+10:00",
+            "receiptId": "RecIdd5667b2b1bf2434e87ebf8a2a4ae9cf2",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": "officero",
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_162947c5-8199-406f-ac5e-9dabb48d672e",
+            "lodgedDateTime": "2019-07-24T16:24:00.2820144+10:00",
+            "receiptId": "RecId270db96030ec4c3581b20206fe91e4e2",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": "managero",
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DueDate_d95214d7-ca1f-474f-a86e-e87e491196ea",
+            "lodgedDateTime": "2019-07-24T16:24:33.7331887+10:00",
+            "receiptId": "RecId9e266f36c17c4446847886c02e318f1e",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": "On",
+                "registrationDueDate": "2019-04-16T00:00:00+10:00",
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithContactDetails_d8397179-5a53-4ace-9720-34c4e9d39817",
+            "lodgedDateTime": "2019-07-24T16:25:09.2671646+10:00",
+            "receiptId": "RecIdf70a66c0c9b345819ea0815c4ff9a27f",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Lodge_NI_with_special_registration_requirements_56e43082-1292-49ee-9e29-383fca4ee8c4",
+            "lodgedDateTime": "2019-07-24T16:25:26.6454867+10:00",
+            "receiptId": "RecId0a298613cf2a461083e4d651ee6b5cff",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": "On",
+                "registrationDueDate": "2019-07-26T00:00:00+10:00",
+                "furtherRequirements": "More Requirements"
+            }
+        },
+        {
+            "name": "Do_Lodge_with_special_registration_requirements_e55bf197-1acc-43d5-8b89-6bdb60353888",
+            "lodgedDateTime": "2019-07-24T16:25:45.2324603+10:00",
+            "receiptId": "RecId22657e92d13e402d9a378e12b57e99ae",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": "On",
+                "registrationDueDate": "2019-07-26T00:00:00+10:00",
+                "furtherRequirements": "More Requirements"
+            }
+        },
+        {
+            "name": "DoLodgeWithPdfAttachmentTest_e4f33e4d-8ab2-49ae-864e-bcf4b2903bba",
+            "lodgedDateTime": "2019-07-24T16:26:04.8972096+10:00",
+            "receiptId": "RecId2888cf6eda9f47a491cd9eefef6cbbd2",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithDocAttachmentTest_2a07ddb7-82de-4ff6-8282-cb1255dfc9a7",
+            "lodgedDateTime": "2019-07-24T16:26:24.1215372+10:00",
+            "receiptId": "RecId25b19d471d05484ebec3385b7fb088db",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithPdfAttachmentTest_d104e507-6fca-4917-8f1f-c3fd94aa7f98",
+            "lodgedDateTime": "2019-07-24T16:26:45.4329724+10:00",
+            "receiptId": "RecId68185757e79a4a0eb946fb910aa59501",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithDocAttachmentTest_3d6ad81f-ba70-4d2e-90a4-c8c482789617",
+            "lodgedDateTime": "2019-07-24T16:27:03.4507825+10:00",
+            "receiptId": "RecId11a4f193c5974dca87b177a47f24f288",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithoutAttachmentTest_1312f13a-c76a-42ae-afc6-68648f89a25d",
+            "lodgedDateTime": "2019-07-24T16:27:22.6595964+10:00",
+            "receiptId": "RecId8508c254b7354259855dc40b1977d13c",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithNamedDocumentTest_397c3e42-404c-4fc0-bcc7-06b22340fc41",
+            "lodgedDateTime": "2019-07-24T16:27:42.30924+10:00",
+            "receiptId": "RecId038df45251544385bb42de1ac50c1405",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Do_Lodge_with_special_registration_requirements_8cb9c5a8-f2ef-4765-80e2-842250ee40bf",
+            "lodgedDateTime": "2019-07-24T16:28:02.3730136+10:00",
+            "receiptId": "RecIdc8989c54e0634553a0efe6c36b126cb1",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": "On",
+                "registrationDueDate": "2019-07-26T00:00:00+10:00",
+                "furtherRequirements": "More Requirements"
+            }
+        },
+        {
+            "name": "DoLodgeWithContactDetails_6c70040a-ab27-4e4d-a878-04572d9cf1be",
+            "lodgedDateTime": "2019-07-24T16:28:22.0981339+10:00",
+            "receiptId": "RecIdc1db44bc5b3c4f4e9b3924b6b82ddc9c",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": "Test Further Requirements Text"
+            }
+        },
+        {
+            "name": "DoLodgeWithNamedDocumentTest_71a54656-9d32-44e3-9adc-cdf468fdd292",
+            "lodgedDateTime": "2019-07-24T16:28:41.0256918+10:00",
+            "receiptId": "RecId1b8720da074b49a6a29d64d14778b1d2",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithoutAttachmentTest_ec91bd14-9c48-4fdb-bac4-b94a353298d5",
+            "lodgedDateTime": "2019-07-24T16:29:01.2396743+10:00",
+            "receiptId": "RecId896bfd65585e4593891360d8c588ebf3",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Lodge_LI_with_Gender_Specific_Language_544d7204-ba5a-472b-b9ac-de3be0f06b80",
+            "lodgedDateTime": "2019-07-24T16:29:18.6554329+10:00",
+            "receiptId": "RecIde2e3e770743e4070852cca430f7b1f04",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithNamedDocumentTest_54c268a0-3479-4739-b943-c32fa9b3151d",
+            "lodgedDateTime": "2019-07-24T16:29:37.2776679+10:00",
+            "receiptId": "RecIdd345a919c11b4908ad886d9a7c6142f8",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithContactDetails_d01c6a78-96d4-49ea-a5c6-7173f07d4e14",
+            "lodgedDateTime": "2019-07-24T16:29:58.2952234+10:00",
+            "receiptId": "RecId7b1ac2898c6a4a34902ede3b271740ea",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": "Test Further Requirements Text"
+            }
+        },
+        {
+            "name": "DoLodgeWithPdfAttachmentTest_8cac4583-bcd9-4de0-a8f9-c4bfdf9863f1",
+            "lodgedDateTime": "2019-07-24T16:30:16.8198204+10:00",
+            "receiptId": "RecIdcc66e3d240384d31b1e2e40c8665befa",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithDocAttachmentTest_974d7338-336b-4e59-be29-7431a28e84cd",
+            "lodgedDateTime": "2019-07-24T16:30:35.000726+10:00",
+            "receiptId": "RecIdbaf8db05167a4e7b96438b7b5c27c48f",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithoutAttachmentTest_bc42add6-0afd-4ffd-8e28-dcb33e9bf570",
+            "lodgedDateTime": "2019-07-24T16:30:54.2578713+10:00",
+            "receiptId": "RecId84add5b70e1b473385e661cdf279bd88",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_a70b1a92-ca1e-4070-8d4e-e7b503652da5",
+            "lodgedDateTime": "2019-07-24T16:32:42.8454682+10:00",
+            "receiptId": "RecId84815fead28a432a84a0df6790fa2b55",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithoutAttachmentTestInBrowser_d523fa0e-0932-4b9a-940a-3089fbe9e560",
+            "lodgedDateTime": "2019-07-24T16:32:53.3374662+10:00",
+            "receiptId": "RecId1a048598c37441839ce91c606018d2af",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Lodgement_Form_Should_Have_special_registration_requirements_in_internal_notes_118032df-c62b-4c3c-b484-f274b1398de7",
+            "lodgedDateTime": "2019-07-24T16:33:12.8276527+10:00",
+            "receiptId": "RecId442de2438e3a42b487ead0a2e501535e",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": "On",
+                "registrationDueDate": null,
+                "furtherRequirements": "More Requirements"
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithoutAttachmentTestInBrowser_8a3d4674-1366-4773-855f-68026ccc4f1e",
+            "lodgedDateTime": "2019-07-24T16:33:32.4991396+10:00",
+            "receiptId": "RecId2fbbbd28c5974995b85b7ab217136d44",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_9f90d449-1914-491e-bf46-db67dc39420b",
+            "lodgedDateTime": "2019-07-25T07:18:23.1399463+10:00",
+            "receiptId": "RecId4e9f80da209c47758f48af28feb7dc15",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_58842eee-65ad-47d0-8a1a-014e85b2dfa8",
+            "lodgedDateTime": "2019-07-25T07:22:47.3225979+10:00",
+            "receiptId": "RecId822bc56da09743ba9f0ad916864551dc",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_ffcddc9e-15f3-4abd-bcc3-0820fccdca5f",
+            "lodgedDateTime": "2019-07-25T08:58:21.7776105+10:00",
+            "receiptId": "RecId7d12803a76a4412498f2fd7a67612244",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_e56e4c74-eb28-4672-8a94-f8a740463e8d",
+            "lodgedDateTime": "2019-07-25T09:00:09.9448783+10:00",
+            "receiptId": "RecIda8dca5adc93f48988339d17179dc41b0",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_95318055-d11c-4c18-883a-9901afe327b7",
+            "lodgedDateTime": "2019-07-25T09:04:29.2810781+10:00",
+            "receiptId": "RecId79d45684b7b442d99157e69c3f520aea",
+            "priority": "Urgent",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_2ba4e8a8-943f-4ae8-b196-11983624bbc0",
+            "lodgedDateTime": "2019-07-25T09:06:41.9695581+10:00",
+            "receiptId": "RecId710d5dddb27a41a8aaf647ed21df2a6a",
+            "priority": "Urgent",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_b61b6915-229b-4ceb-aee3-253a64d601a9",
+            "lodgedDateTime": "2019-07-26T16:09:14.6848961+10:00",
+            "receiptId": "RecIdd5708814cf3b4a42b97e932da95eff25",
+            "priority": "Urgent",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_a4d5cebe-e894-42d8-8136-7208773c189f",
+            "lodgedDateTime": "2019-07-26T16:10:16.2445247+10:00",
+            "receiptId": "RecId06780dc303ea4fc9af85881e72a72648",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": "Test Further Requirements Text"
+            }
+        },
+        {
+            "name": "Name_1d017653-2f50-491b-8f40-f4f921ae9614",
+            "lodgedDateTime": "2019-07-26T16:10:48.6928144+10:00",
+            "receiptId": "RecId54f5c9fd137e435cbe6d5f48b2590e36",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DueDate_e8b05550-2199-4888-92c7-12e5d35da5c4",
+            "lodgedDateTime": "2019-07-26T16:13:51.871222+10:00",
+            "receiptId": "RecId5b08fb01023e4e7ebbd5d54dc6ffd29f",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": "officero",
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": "On",
+                "registrationDueDate": "2019-04-16T00:00:00+10:00",
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_d09f8841-c666-42ba-b9e0-e3b94c9086c4",
+            "lodgedDateTime": "2019-07-26T16:14:01.5274405+10:00",
+            "receiptId": "RecIdf3eac944401b4aa19aac83d35a27ccd1",
+            "priority": "Urgent",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_ed454f6f-15a4-43db-be0c-cf00fb7d99d6",
+            "lodgedDateTime": "2019-07-26T16:15:15.2250182+10:00",
+            "receiptId": "RecIde0f78916f3ee459284687905705f1967",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_e2462ffe-f6c1-44d8-92e6-ed62a2255d1c",
+            "lodgedDateTime": "2019-07-26T16:15:15.2759722+10:00",
+            "receiptId": "RecId482a0d2da33d4983bf2b71bda990e3aa",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithContactDetails_6275e19e-d9dd-4d30-b47f-941900e6e5a9",
+            "lodgedDateTime": "2019-07-26T16:16:40.5877932+10:00",
+            "receiptId": "RecIde03641e2f2bd4eb781a06d562d30699f",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Lodge_NI_with_special_registration_requirements_51b0e65b-ef15-4a75-9300-31de660434ec",
+            "lodgedDateTime": "2019-07-26T16:16:57.8683806+10:00",
+            "receiptId": "RecIde6bcd9303b2646988681b8c581748f71",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": "On",
+                "registrationDueDate": "2019-07-28T00:00:00+10:00",
+                "furtherRequirements": "More Requirements"
+            }
+        },
+        {
+            "name": "Do_Lodge_with_special_registration_requirements_070cdb83-4860-4e05-b13f-66bf92c12691",
+            "lodgedDateTime": "2019-07-26T16:17:17.4816077+10:00",
+            "receiptId": "RecId27a5218fa4d445338eafa14327b60786",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": "On",
+                "registrationDueDate": "2019-07-28T00:00:00+10:00",
+                "furtherRequirements": "More Requirements"
+            }
+        },
+        {
+            "name": "DoLodgeWithPdfAttachmentTest_683808c0-d0f6-44c4-a605-fbd2caddd2f2",
+            "lodgedDateTime": "2019-07-26T16:17:37.4654646+10:00",
+            "receiptId": "RecId3eb93b0ff0524d18ba64a25bd9870c2d",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithDocAttachmentTest_d5ce8c82-eacc-402f-b879-225c69bf0c56",
+            "lodgedDateTime": "2019-07-26T16:17:57.1209881+10:00",
+            "receiptId": "RecId08148108474c41878340b1ae9efe9ab0",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithPdfAttachmentTest_ab97acdb-4414-42b7-903f-8b775733975b",
+            "lodgedDateTime": "2019-07-26T16:18:18.5451913+10:00",
+            "receiptId": "RecIdb8b0646a57464032b1a12bdf09231ae6",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithDocAttachmentTest_2af7688f-868a-4e34-a822-1ae9c326aaa9",
+            "lodgedDateTime": "2019-07-26T16:18:36.8496241+10:00",
+            "receiptId": "RecId9f3a042cc02a4ef4b83db2707d9f41f5",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithoutAttachmentTest_3a0a39b8-c0f9-4a88-9b1f-d72ea90aa83a",
+            "lodgedDateTime": "2019-07-26T16:18:56.1589242+10:00",
+            "receiptId": "RecId677fa1b5ac264158bfacd54dc3d60e61",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithNamedDocumentTest_89631df1-3624-40e9-be81-0e5a065ca295",
+            "lodgedDateTime": "2019-07-26T16:19:16.3235123+10:00",
+            "receiptId": "RecIda28f4017d640492cbe6ccdbf9ba6eee4",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Do_Lodge_with_special_registration_requirements_35929d0f-0d23-4bfe-a599-52acd5604d43",
+            "lodgedDateTime": "2019-07-26T16:19:36.8028362+10:00",
+            "receiptId": "RecId10496a324fe34269bb7f4fefc64adfde",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": "On",
+                "registrationDueDate": "2019-07-28T00:00:00+10:00",
+                "furtherRequirements": "More Requirements"
+            }
+        },
+        {
+            "name": "DoLodgeWithContactDetails_a364675c-62c0-4817-b4c0-98d253a1e738",
+            "lodgedDateTime": "2019-07-26T16:19:57.1481605+10:00",
+            "receiptId": "RecId7e8e61c78d904117932bb74f43832919",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": "Test Further Requirements Text"
+            }
+        },
+        {
+            "name": "DoLodgeWithNamedDocumentTest_b53d7f30-3034-4b4c-845e-54fab053db27",
+            "lodgedDateTime": "2019-07-26T16:20:16.1420159+10:00",
+            "receiptId": "RecId85280eb9d0164c24baba1a23b4a4be2d",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithoutAttachmentTest_5bb04768-742a-4f18-8a22-5aa7f01a80dc",
+            "lodgedDateTime": "2019-07-26T16:20:36.7776033+10:00",
+            "receiptId": "RecId6394418faace418a8233ed1fc1a49f34",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Lodge_LI_with_Gender_Specific_Language_8fbd0249-a3b5-49ac-aec6-63ada1e9bb2c",
+            "lodgedDateTime": "2019-07-26T16:20:54.3494108+10:00",
+            "receiptId": "RecId020b2347ab5f4303aa89f57dead17f58",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithNamedDocumentTest_b73070f7-c90e-4e17-a0c5-93e5969d394a",
+            "lodgedDateTime": "2019-07-26T16:21:13.2497224+10:00",
+            "receiptId": "RecId7bb85d7225e14858b2e08f81f718f118",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithContactDetails_d978c40e-1c40-4e02-8fd4-450407d24e4c",
+            "lodgedDateTime": "2019-07-26T16:21:34.2249882+10:00",
+            "receiptId": "RecId33c974d689314aa4878c3b108484ec98",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": "Test Further Requirements Text"
+            }
+        },
+        {
+            "name": "DoLodgeWithPdfAttachmentTest_ed86ad6d-d26c-42cf-a082-2aa6b73d849f",
+            "lodgedDateTime": "2019-07-26T16:21:52.8109909+10:00",
+            "receiptId": "RecId89e1bdf8f4f945129c6c524d5d22d682",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithDocAttachmentTest_89c958bb-ca5e-4435-b4e2-b63b84d401bd",
+            "lodgedDateTime": "2019-07-26T16:22:11.0939266+10:00",
+            "receiptId": "RecId93f602cc268c4bf7a6f3bb1cefcdc89c",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithoutAttachmentTest_cca6d7c0-192f-4166-b725-57ea4175a25c",
+            "lodgedDateTime": "2019-07-26T16:22:30.0415922+10:00",
+            "receiptId": "RecId0c35b209f4274a39863cee2d26f4fd1e",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_b0f97d02-600e-453a-967a-a40c3117caca",
+            "lodgedDateTime": "2019-07-26T16:22:32.2427016+10:00",
+            "receiptId": "RecId320443ba99424724b8691fa7b0cb4551",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_55c940e4-5cad-415f-8c1c-5cf6cb2d1f7d",
+            "lodgedDateTime": "2019-07-26T16:23:02.8847608+10:00",
+            "receiptId": "RecIdcf0f5eb22df04154a68b997fc3cd383f",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_5156c608-86f4-4344-8d4e-bde3d4621724",
+            "lodgedDateTime": "2019-07-26T16:23:25.6760208+10:00",
+            "receiptId": "RecId9e79681d1a224f1494669f8255e890c2",
+            "priority": "Routine",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_89f547b3-da3c-4b5b-be81-2d3a0f525668",
+            "lodgedDateTime": "2019-07-26T16:23:25.9721593+10:00",
+            "receiptId": "RecId9f36f9595f6549eab34c3b101a451ab4",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_8449656c-4440-43b9-a4f5-8b5ba1698562",
+            "lodgedDateTime": "2019-07-26T16:24:09.1587904+10:00",
+            "receiptId": "RecId86825047cb304faaa2db5d13d19610e2",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithoutAttachmentTestInBrowser_feb351a6-81b3-41c8-a1a4-caa6c61087aa",
+            "lodgedDateTime": "2019-07-26T16:24:20.314741+10:00",
+            "receiptId": "RecId2abc30ad520c4a5abc54a2e4a57a59db",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Lodgement_Form_Should_Have_special_registration_requirements_in_internal_notes_58c73ed7-1e29-4139-8d72-a6b37021dba2",
+            "lodgedDateTime": "2019-07-26T16:24:39.9121895+10:00",
+            "receiptId": "RecIde0598149c13c4c358d7ad493fc864e15",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": "On",
+                "registrationDueDate": null,
+                "furtherRequirements": "More Requirements"
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithoutAttachmentTestInBrowser_a921f49d-ca7b-4bb7-8f17-52186f193e12",
+            "lodgedDateTime": "2019-07-26T16:25:00.3235095+10:00",
+            "receiptId": "RecId1cfb8fab4957496591df29aceb486773",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_5fb72059-446c-4554-989d-72ff919795c2",
+            "lodgedDateTime": "2019-07-26T16:25:04.0036197+10:00",
+            "receiptId": "RecId8735649e8ad94c778d15dbd1a2c460cc",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": "officero",
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_dad7129f-affe-40fd-89e2-937aee02ac97",
+            "lodgedDateTime": "2019-07-26T16:25:14.3838163+10:00",
+            "receiptId": "RecId39717115f88d4907bbb079e57c987110",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_a631075f-3ca5-4e6f-8d3a-26a5178b92a0",
+            "lodgedDateTime": "2019-07-26T16:25:25.3007828+10:00",
+            "receiptId": "RecId3c15204f966e4ce088798a50e84f7e71",
+            "priority": "Urgent",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithoutAttachmentTest_70dc01be-284d-4790-be81-a82189c3286d",
+            "lodgedDateTime": "2019-07-26T16:26:08.1953663+10:00",
+            "receiptId": "RecIda15d2bad74c641d98a8da57172dd85eb",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithMultipleDocAttachmentTest_4288d866-153b-471d-a59b-84ed8ad49ddb",
+            "lodgedDateTime": "2019-07-26T16:26:30.4688622+10:00",
+            "receiptId": "RecId3c1df33e7fb348bfa8cf2f05b30f0031",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithSingleDocAttachmentTest_08bf0a17-144d-4318-9eac-505a756d7ade",
+            "lodgedDateTime": "2019-07-26T16:26:50.2567065+10:00",
+            "receiptId": "RecId4f14e8bbd5804fe7b8bd59dca2cfce7d",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_c0f70e40-3e48-419f-b7d4-3066c23ecee8",
+            "lodgedDateTime": "2019-07-26T16:26:52.6578701+10:00",
+            "receiptId": "RecId674ff43b68834c86bb8fae2ec8160447",
+            "priority": "Urgent",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_63d1ae10-a32a-46ff-9600-84fc89398445",
+            "lodgedDateTime": "2019-07-26T16:27:34.0575942+10:00",
+            "receiptId": "RecId37485247799540c992ce312702e2f8ad",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_76bcf70e-0968-4ae6-81ec-4a54d9f08468",
+            "lodgedDateTime": "2019-07-26T16:27:54.0062635+10:00",
+            "receiptId": "RecId58a5f22bfca146498793175d6dadda84",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": "officero",
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Allocate_902b95f7-aa6c-41dc-8ba4-05d16bb6c97d",
+            "lodgedDateTime": "2019-07-26T16:28:47.2456096+10:00",
+            "receiptId": "RecId80dadf542ed1493eb76c525e04a65899",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Allocate_902b95f7-aa6c-41dc-8ba4-05d16bb6c97d_allocate_test",
+            "lodgedDateTime": "2019-07-26T16:28:57.0040089+10:00",
+            "receiptId": "RecId808651b649204d298393b16fcb65e3b3",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": "officero",
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_a989c5de-a435-4736-a029-d77d9e0783e7",
+            "lodgedDateTime": "2019-07-26T16:29:08.5608022+10:00",
+            "receiptId": "RecIdc52bce0ed5c9478abb2f33a6a0be90d5",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": "managero",
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DueDate_1babeafd-805b-480c-904c-cf7331315114",
+            "lodgedDateTime": "2019-07-26T16:29:44.507783+10:00",
+            "receiptId": "RecIdeeb5fb2d3b0c4bdba30c10c537be9b5a",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": "On",
+                "registrationDueDate": "2019-04-16T00:00:00+10:00",
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_c747bcc2-76ea-408a-8398-301cf0118de9",
+            "lodgedDateTime": "2019-07-26T16:31:53.6469722+10:00",
+            "receiptId": "RecIdc42e6637e31e4e80bc229cbf3cd1d150",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithContactDetails_ad041b39-d5b6-4125-a09f-d53bc04f8dd5",
+            "lodgedDateTime": "2019-07-26T16:32:25.2650704+10:00",
+            "receiptId": "RecIdddbf4218d99444abbac40ad80878b813",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": "Test Further Requirements Text"
+            }
+        },
+        {
+            "name": "Administrative Arrangements Order",
+            "lodgedDateTime": "2019-07-26T16:32:39.6942325+10:00",
+            "receiptId": "RecIdc8faa8356538495ebc503749b3a8fa0d",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "AdministrativeArrangementsOrder",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithNamedDocumentTest_8ee10919-ee44-4747-89ba-c791e3d6683b",
+            "lodgedDateTime": "2019-07-26T16:32:56.4355008+10:00",
+            "receiptId": "RecId4f05a8379b80423981855f47d1dc0620",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithContactDetails_99d1c903-7941-4963-8974-b317bcd95b3d",
+            "lodgedDateTime": "2019-07-26T16:33:14.755621+10:00",
+            "receiptId": "RecId4293a547c1364aa5944a14336d628934",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": "Test Further Requirements Text"
+            }
+        },
+        {
+            "name": "DoLodgeWithPdfAttachmentTest_9c5fb47e-c9cd-40ab-b2fd-eabf29f97c89",
+            "lodgedDateTime": "2019-07-26T16:33:28.6386853+10:00",
+            "receiptId": "RecIda0fdedbde3e94dbb9ed19fd85eb32b94",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "PrerogativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithDocAttachmentTest_a2ecd3cf-687e-46ee-b23a-63d98cd5dc03",
+            "lodgedDateTime": "2019-07-26T16:33:42.420761+10:00",
+            "receiptId": "RecIde73c80d423e141cb9c5e41a436ed7497",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithoutAttachmentTest_23d8b715-4d8f-4fac-a408-fa6e6cfcc35a",
+            "lodgedDateTime": "2019-07-26T16:33:56.8828918+10:00",
+            "receiptId": "RecId1aa67921ac3f4f198e8e94c67f1e12f7",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithoutAttachmentTest_ed4e735d-024c-4e8d-8ad6-24accfbf64f1",
+            "lodgedDateTime": "2019-07-26T16:34:07.5800975+10:00",
+            "receiptId": "RecIdbb1d192df7cc44899f7d38146d14d6ac",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "PrerogativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Administrative Arrangements Order",
+            "lodgedDateTime": "2019-07-26T16:34:20.7020487+10:00",
+            "receiptId": "RecId09b6e98531e34db9b4047d81e82367e6",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "AdministrativeArrangementsOrder",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Lodge_Act_With_Parliament_House_Originating_Bill_2c079012-37f7-4e18-b71d-699d4781525b",
+            "lodgedDateTime": "2019-07-26T16:34:32.587669+10:00",
+            "receiptId": "RecId39c1314631b54a748e0850538d32f74e",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithPdfAttachmentTest_2d066baa-aad8-4491-aa7b-929ab1c241fc",
+            "lodgedDateTime": "2019-07-26T16:34:46.2585863+10:00",
+            "receiptId": "RecId7e6dd11c9b6540d99b9df0a1c09e654c",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithDocAttachmentTest_ab9d3e98-b23e-47ae-84b1-038fc9577052",
+            "lodgedDateTime": "2019-07-26T16:34:59.4373656+10:00",
+            "receiptId": "RecId3ce6181f8f534ac4bd8d57d17b4f7e1a",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "PrerogativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithDocAttachmentTest_19006e36-79df-4e8b-956b-fec3e05691e8",
+            "lodgedDateTime": "2019-07-26T16:35:16.1192881+10:00",
+            "receiptId": "RecId802101449b4f4720a226d1eda98407f7",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithNamedDocumentTest_070154dd-fecb-42ee-a60e-d77552071c83",
+            "lodgedDateTime": "2019-07-26T16:35:37.9163681+10:00",
+            "receiptId": "RecId269896be06324fe5a4645f52e30259e8",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithoutAttachmentTest_78e1e339-9f51-4ae2-b857-a4594374861e",
+            "lodgedDateTime": "2019-07-26T16:36:00.0310415+10:00",
+            "receiptId": "RecIdb78bd2db5fba448daa6ff306bbe5bef9",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithPdfAttachmentTest_c5964dc0-7ff8-4d7e-b82b-d6133f6d6f70",
+            "lodgedDateTime": "2019-07-26T16:36:15.3048667+10:00",
+            "receiptId": "RecIda220d115f65a4325aac7c566a1dfe092",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithDocAttachmentTest_086e68a8-d221-4ccd-a93d-33a973eaaa0d",
+            "lodgedDateTime": "2019-07-26T16:36:30.8651613+10:00",
+            "receiptId": "RecIddec591cfb0244fa987c3861724627cc6",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithDocAttachmentTest_5d537995-6265-446a-9144-49debab741f2",
+            "lodgedDateTime": "2019-07-26T16:36:47.4959823+10:00",
+            "receiptId": "RecId26e6d90a5ba24d8d9e89fd801b1d7b29",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithNamedDocumentTest_ae08fb53-5773-4fcb-b19d-7385d1020e66",
+            "lodgedDateTime": "2019-07-26T16:37:04.4674109+10:00",
+            "receiptId": "RecId7832d803623a4bfdba83f2894cc2af10",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "PrerogativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithPdfAttachmentTest_1fa6925f-3e0e-401a-ac5b-441558b6ef2e",
+            "lodgedDateTime": "2019-07-26T16:37:21.3237786+10:00",
+            "receiptId": "RecId687bb444feb74aabaf2fe328a5e6b0fd",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithoutAttachmentTestInBrowser_43dc5dfb-66dc-4b82-a45e-85c8cc6a5cc9",
+            "lodgedDateTime": "2019-07-26T16:37:34.501802+10:00",
+            "receiptId": "RecIdfdc6cc904e8146b8a936fbfd4c908bf5",
+            "priority": "Routine",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoRegisterThenLodgeAndAutoCompleteItem_663f54a9-610e-4ac6-b1ad-738a99be88f6",
+            "lodgedDateTime": "2019-07-26T16:37:41.6780799+10:00",
+            "receiptId": "RecId0463fce26ee84dd3b0fc9919b6370b56",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithoutAttachmentTest_688de8fd-f9ae-4b4a-92bd-8d398460c861",
+            "lodgedDateTime": "2019-07-26T16:37:53.3982665+10:00",
+            "receiptId": "RecId70bffbd0f4564fd796c46b7adc5bedde",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithContactDetails_69c8f7e1-960b-4f3e-9f9e-fc8e621333a4",
+            "lodgedDateTime": "2019-07-26T16:38:07.8971289+10:00",
+            "receiptId": "RecId7f66a3155c794684b0f30a1103aa06d0",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithoutAttachmentTestInBrowser_e6f8fdc6-43de-4531-8985-7b0319feb9bf",
+            "lodgedDateTime": "2019-07-26T16:38:20.2913791+10:00",
+            "receiptId": "RecId1307e5004ef64cc2a0204040a8ff9557",
+            "priority": "Routine",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoRegisterThenLodgeAndAutoCompleteItem_656bd273-eb1f-4678-ae32-af0bff7e2b67",
+            "lodgedDateTime": "2019-07-26T16:38:25.891215+10:00",
+            "receiptId": "RecId723e9432fa4d4fd59dafbd3b9652dc48",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Administrative Arrangements Order",
+            "lodgedDateTime": "2019-07-26T16:38:39.3856096+10:00",
+            "receiptId": "RecIdbd93f7936b7f48ecaf6fb5d2049686a9",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "AdministrativeArrangementsOrder",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithNamedDocumentTest_0db365f2-11b8-452c-84df-9042cecc2f66",
+            "lodgedDateTime": "2019-07-26T16:38:56.4565803+10:00",
+            "receiptId": "RecIde91ecd4338714a0d9416bf6c4f41fcf6",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "NotifiableInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithNamedDocumentTest_112894ad-1479-4b88-a014-21bff43d039e",
+            "lodgedDateTime": "2019-07-26T16:39:13.7489659+10:00",
+            "receiptId": "RecIdbf22a691cf8b455c88da9e781aaedbf8",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithoutAttachmentTestInBrowser_6661a345-73bd-4bd8-adad-1052f71e8bc9",
+            "lodgedDateTime": "2019-07-26T16:39:29.1243381+10:00",
+            "receiptId": "RecIdac87d8784bd04321863b7d38b504118f",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoRegisterThenLodgeAndAutoCompleteItem_de705bf6-e0e7-432d-871a-25006fc9fe30",
+            "lodgedDateTime": "2019-07-26T16:39:34.6673175+10:00",
+            "receiptId": "RecId2b84addb02364d2599cac5bc643de80f",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Gazette",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithPdfAttachmentTest_1f5dfe2f-b133-41c2-9d1c-f4dd03a2f600",
+            "lodgedDateTime": "2019-07-26T16:39:48.5140455+10:00",
+            "receiptId": "RecId48b7b7f7d6f64275b7d799c02a26af45",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "GetLodgementByIdWithoutAttachmentTestInBrowser_7ff09b42-2d26-4657-b923-81ee1efd68c3",
+            "lodgedDateTime": "2019-07-26T16:40:00.4638791+10:00",
+            "receiptId": "RecIdf827dc2b5cb8490a8c324e6d836d1120",
+            "priority": "Routine",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoRegisterThenLodgeAndAutoCompleteItem_6fbc11b1-9363-4d5b-a9e9-83732c499aef",
+            "lodgedDateTime": "2019-07-26T16:40:06.2422082+10:00",
+            "receiptId": "RecId36c61d4865d74112922fbaa28f4e53a1",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Administrative Arrangements Order",
+            "lodgedDateTime": "2019-07-26T16:40:17.3075551+10:00",
+            "receiptId": "RecIdd7627fce68f74aa8894a15d01150c9eb",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "AdministrativeArrangementsOrder",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "DoLodgeWithoutAttachmentTest_e1f03e56-93e9-45bf-ac4d-60469c22b0de",
+            "lodgedDateTime": "2019-07-26T16:40:30.8718878+10:00",
+            "receiptId": "RecId5669de4b5e0744cd86c58ede9ef3c5d1",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_0b04b135-c204-4c10-a438-60536baa9cb7",
+            "lodgedDateTime": "2019-07-26T16:40:33.1691713+10:00",
+            "receiptId": "RecId89b69fc8d62d4659a57b08df03f63f01",
+            "priority": "Urgent",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Lodge_Act_With_Internal_Originating_Bill_016c91b2-ca84-4914-958e-1ca3b29d6953",
+            "lodgedDateTime": "2019-07-26T16:40:46.0725753+10:00",
+            "receiptId": "RecIdc6cfb6ce05dd4da1b4d45829e490fb4c",
+            "priority": "Urgent",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "Act",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_0e3d6d13-9990-4c27-a474-1cced30ca996",
+            "lodgedDateTime": "2019-07-26T16:41:44.2821275+10:00",
+            "receiptId": "RecId170f112285384bb1ac2ed1fe483216c8",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "PrerogativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_1b52fbbc-2344-4d66-94a3-d7b8f10ab1be",
+            "lodgedDateTime": "2019-07-26T16:41:44.3133632+10:00",
+            "receiptId": "RecId567f4bf8f09e41b3a59e57536c961ebb",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "AdministrativeArrangementsOrder",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_e959c96a-fd33-4412-a49b-f5eafcb628eb",
+            "lodgedDateTime": "2019-07-26T16:46:57.0349393+10:00",
+            "receiptId": "RecId8fefda45d3d244719bae5c99b55b8822",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "PrerogativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_7ccb1b80-748e-4164-a7e7-45670114fa68",
+            "lodgedDateTime": "2019-07-26T16:46:57.0830637+10:00",
+            "receiptId": "RecIda5d278f44da1441bae557463504ba075",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "AdministrativeArrangementsOrder",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_9062f19f-49b5-4707-893d-0753774da558",
+            "lodgedDateTime": "2019-07-26T16:47:57.1194642+10:00",
+            "receiptId": "RecId29d3ef24ccb64d579141f05c08986408",
+            "priority": "Routine",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "PrerogativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_47b8db5e-4c4d-40b3-970a-f4b521570be3",
+            "lodgedDateTime": "2019-07-26T16:47:57.1500722+10:00",
+            "receiptId": "RecId05e119aca3f94a41bd9f7936efd475db",
+            "priority": "OnSpecificDate",
+            "lodgementState": "Lodged",
+            "allocatedUserName": null,
+            "legislationType": "AdministrativeArrangementsOrder",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        },
+        {
+            "name": "Name_32896be8-5a13-41a7-84c5-bccf76d70cd7",
+            "lodgedDateTime": "2019-07-26T16:48:33.8169664+10:00",
+            "receiptId": "RecId2de69fb1baf44bf6a6bc7b727eeea46b",
+            "priority": "Routine",
+            "lodgementState": "Registered",
+            "allocatedUserName": null,
+            "legislationType": "LegislativeInstrument",
+            "registrationRequirements": {
+                "registrationDue": null,
+                "registrationDueDate": null,
+                "furtherRequirements": null
+            }
+        }
+    ]
+}
