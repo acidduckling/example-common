@@ -1,17 +1,25 @@
-import { NgModule } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import { HttpClientModule } from '@angular/common/http';
+import { NgModule, ModuleWithProviders } from '@angular/core';
 import { DropdownComponent } from './components/dropdown/dropdown.component';
 import { ListComponent } from './components/list/list.component';
 import { DynamicComponentService } from './services/dynamic-component.service';
-import { CommonModule } from '@angular/common';
-
+import { Environment } from './model/environment.interface';
+import { ENVIRONMENT } from './app.tokens';
+import { ConfigService } from './services/config.service';
 
 @NgModule({
   declarations: [DropdownComponent, ListComponent],
-  imports: [CommonModule],
+  imports: [CommonModule, HttpClientModule],
   entryComponents: [DropdownComponent, ListComponent],
-  providers: [
-    DynamicComponentService
-  ],
-  exports: [DropdownComponent, ListComponent]
+  providers: [DynamicComponentService, ConfigService],
+  exports: [DropdownComponent, ListComponent],
 })
-export class FrlCommonModule { }
+export class FrlCommonModule {
+  static forRoot(environment: Environment): ModuleWithProviders {
+    return {
+      ngModule: FrlCommonModule,
+      providers: [{ provide: ENVIRONMENT, useValue: environment }],
+    };
+  }
+}
