@@ -19,4 +19,13 @@
             <button class="btn btn-primary btn-block" (click)="loadComponent('list')">Load List Component</button>
         </div>
     </div>
+
+    <div>
+      <h2>Grid</h2>
+      <frl-grid [data]="gridData">
+        <frl-grid-column [boundProperty]="'col1'" [title]="'I am column 1'"></frl-grid-column>
+        <frl-grid-column [boundProperty]="'col2'" [title]="'I am column 2'"></frl-grid-column>
+        <frl-grid-column [boundProperty]="'col3'" [title]="'I am column 3'"></frl-grid-column>
+      </frl-grid>
+    </div>
 </div>

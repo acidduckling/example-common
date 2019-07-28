@@ -1,0 +1,12 @@
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th *ngFor="let header of rowData">{{header.title}}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let row of data; let i = index">
+      <td *ngFor="let col of rowData">{{row[col.boundProperty]}}</td>
+    </tr>
+  </tbody>
+</table>

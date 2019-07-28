@@ -275,7 +275,8 @@
       "prefix": "frl",
       "schematics": {
         "@schematics/angular:component": {
-          "style": "scss"
+          "style": "scss",
+          "export": true
         }
       },
       "architect": {
@@ -309,5 +310,5 @@
       }
     }
   },
-  "defaultProject": "frl-manage"
+  "defaultProject": "frl-common"
 }
