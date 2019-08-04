@@ -29,6 +29,9 @@
             "styles": [
               "projects/frl-manage/src/styles.scss"
             ],
+            "stylePreprocessorOptions": {
+              "includePaths": ["projects/frl-common/src/styles"]
+            },
             "scripts": [],
             "es5BrowserSupport": true
           },
@@ -162,6 +165,9 @@
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "projects/frl-lodge/src/styles.scss"
             ],
+            "stylePreprocessorOptions": {
+              "includePaths": ["projects/frl-common/src/styles"]
+            },
             "scripts": [],
             "es5BrowserSupport": true
           },
@@ -275,8 +281,9 @@
       "prefix": "frl",
       "schematics": {
         "@schematics/angular:component": {
-          "style": "scss",
-          "export": true
+          "styleext": "scss",
+          "export": true,
+          "viewEncapsulation": "None"
         }
       },
       "architect": {
