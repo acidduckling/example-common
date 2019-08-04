@@ -10,7 +10,7 @@ import { Subscription } from 'rxjs';
   styleUrls: ['./app.component.scss'],
 })
 export class AppComponent implements OnInit, OnDestroy {
-  title = 'frl-lodge';
+  title = 'Lodgement';
   currentWidget: string;
 
   lodgements: Lodgement[];
