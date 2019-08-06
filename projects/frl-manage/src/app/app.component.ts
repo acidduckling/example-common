@@ -10,7 +10,7 @@ export class AppComponent implements OnInit {
   title = 'frl-manage';
   currentWidget: string;
 
-  @ViewChild('widgetHost', { read: ViewContainerRef }) widgetHost: ViewContainerRef;
+  @ViewChild('widgetHost', { read: ViewContainerRef, static: true }) widgetHost: ViewContainerRef;
 
   constructor(private dynamicComponent: DynamicComponentService) { }
 
