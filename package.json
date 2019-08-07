@@ -17,6 +17,7 @@
     "dtest:c": "ng test frl-common --karma-config=projects/frl-common/karma.conf.dev.js",
     "dtest:l": "ng test frl-lodge --karma-config=projects/frl-lodge/karma.conf.dev.js",
     "dtest:m": "ng test frl-manage --karma-config=projects/frl-manage/karma.conf.dev.js",
+    "update-styles": "node scripts/update-styles.js projects/frl-common/src/lib/components projects/frl-common/src/lib/styles/components.scss",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },

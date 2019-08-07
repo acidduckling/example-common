@@ -2,17 +2,19 @@
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "version": 1,
   "newProjectRoot": "projects",
+  "schematics": {
+    "@schematics/angular:component": {
+      "viewEncapsulation": "None",
+      "inlineStyle": true
+    }
+  },
   "projects": {
     "frl-manage": {
       "root": "projects/frl-manage/",
       "sourceRoot": "projects/frl-manage/src",
       "projectType": "application",
       "prefix": "frl",
-      "schematics": {
-        "@schematics/angular:component": {
-          "style": "scss"
-        }
-      },
+      
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
@@ -22,11 +24,22 @@
             "main": "projects/frl-manage/src/main.ts",
             "polyfills": "projects/frl-manage/src/polyfills.ts",
             "tsConfig": "projects/frl-manage/tsconfig.app.json",
+            "extractCss": true,
             "assets": [
               "projects/frl-manage/src/favicon.ico",
               "projects/frl-manage/src/assets"
             ],
             "styles": [
+              {
+                "input": "projects/frl-common/src/lib/styles/theme-a.scss",
+                "bundleName": "theme-a",
+                "inject": true
+              },
+              {
+                "input": "projects/frl-common/src/lib/styles/theme-b.scss",
+                "bundleName": "theme-b",
+                "inject": false
+              },
               "projects/frl-manage/src/styles.scss"
             ],
             "scripts": [],
@@ -83,9 +96,7 @@
             "polyfills": "projects/frl-manage/src/polyfills.ts",
             "tsConfig": "projects/frl-manage/tsconfig.spec.json",
             "karmaConfig": "projects/frl-manage/karma.conf.js",
-            "styles": [
-              "projects/frl-manage/src/styles.scss"
-            ],
+            "styles": ["projects/frl-manage/src/styles.scss"],
             "scripts": [],
             "assets": [
               "projects/frl-manage/src/favicon.ico",
@@ -100,9 +111,7 @@
               "projects/frl-manage/tsconfig.app.json",
               "projects/frl-manage/tsconfig.spec.json"
             ],
-            "exclude": [
-              "**/node_modules/**"
-            ]
+            "exclude": ["**/node_modules/**"]
           }
         }
       }
@@ -128,9 +137,7 @@
           "builder": "@angular-devkit/build-angular:tslint",
           "options": {
             "tsConfig": "projects/frl-manage-e2e/tsconfig.e2e.json",
-            "exclude": [
-              "**/node_modules/**"
-            ]
+            "exclude": ["**/node_modules/**"]
           }
         }
       }
@@ -140,11 +147,6 @@
       "sourceRoot": "projects/frl-lodge/src",
       "projectType": "application",
       "prefix": "frl",
-      "schematics": {
-        "@schematics/angular:component": {
-          "style": "scss"
-        }
-      },
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
@@ -216,9 +218,7 @@
             "polyfills": "projects/frl-lodge/src/polyfills.ts",
             "tsConfig": "projects/frl-lodge/tsconfig.spec.json",
             "karmaConfig": "projects/frl-lodge/karma.conf.js",
-            "styles": [
-              "projects/frl-lodge/src/styles.scss"
-            ],
+            "styles": ["projects/frl-lodge/src/styles.scss"],
             "scripts": [],
             "assets": [
               "projects/frl-lodge/src/favicon.ico",
@@ -233,9 +233,7 @@
               "projects/frl-lodge/tsconfig.app.json",
               "projects/frl-lodge/tsconfig.spec.json"
             ],
-            "exclude": [
-              "**/node_modules/**"
-            ]
+            "exclude": ["**/node_modules/**"]
           }
         }
       }
@@ -261,9 +259,7 @@
           "builder": "@angular-devkit/build-angular:tslint",
           "options": {
             "tsConfig": "projects/frl-lodge-e2e/tsconfig.e2e.json",
-            "exclude": [
-              "**/node_modules/**"
-            ]
+            "exclude": ["**/node_modules/**"]
           }
         }
       }
@@ -273,11 +269,6 @@
       "sourceRoot": "projects/frl-common/src",
       "projectType": "library",
       "prefix": "frl",
-      "schematics": {
-        "@schematics/angular:component": {
-          "style": "scss"
-        }
-      },
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-ng-packagr:build",
@@ -301,13 +292,11 @@
               "projects/frl-common/tsconfig.lib.json",
               "projects/frl-common/tsconfig.spec.json"
             ],
-            "exclude": [
-              "**/node_modules/**"
-            ]
+            "exclude": ["**/node_modules/**"]
           }
         }
       }
     }
   },
-  "defaultProject": "frl-manage"
+  "defaultProject": "frl-common"
 }

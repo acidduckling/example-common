@@ -1,23 +1,16 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewEncapsulation } from '@angular/core';
 import { RegisterWidget } from '../widget-registry';
 
 @RegisterWidget('list')
 @Component({
   selector: 'frl-list',
   templateUrl: './list.component.html',
-  styleUrls: ['./list.component.scss']
+  encapsulation: ViewEncapsulation.None,
 })
 export class ListComponent implements OnInit {
+  items = ['Item 1', 'Item 2', 'Item 3'];
 
-  items = [
-    'Item 1',
-    'Item 2',
-    'Item 3',
-  ]
+  constructor() {}
 
-  constructor() { }
-
-  ngOnInit() {
-  }
-
+  ngOnInit() {}
 }

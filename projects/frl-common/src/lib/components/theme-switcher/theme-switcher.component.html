@@ -1,0 +1,4 @@
+<div class="btn-group">
+    <button [ngClass]="['btn', 'btn-' + (currentTheme === 'a' ? 'secondary' : 'outline-secondary')]" (click)="changeTheme('a')">Theme A</button>
+    <button [ngClass]="['btn', 'btn-' + (currentTheme === 'b' ? 'secondary' : 'outline-secondary')]" (click)="changeTheme('b')">Theme B</button>
+</div>
