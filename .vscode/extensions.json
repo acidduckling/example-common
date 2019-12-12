@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+      "Angular.ng-template",
+      "christian-kohler.path-intellisense",
+      "spmeesseman.vscode-taskexplorer",
+      "donjayamanne.githistory",
+      "eamodio.gitlens",
+      "esbenp.prettier-vscode",
+      "infinity1207.angular2-switcher",
+      "ms-vscode.csharp",
+      "ms-vscode.powershell",
+      "ms-vscode.vscode-typescript-tslint-plugin",
+      "PKief.material-icon-theme",
+      "raagh.angular-karma-test-explorer",
+      "VisualStudioExptTeam.vscodeintellicode"
+  ]
+}

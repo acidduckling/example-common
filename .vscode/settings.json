@@ -1,0 +1,40 @@
+{
+  "editor.detectIndentation": false,
+  "explorer.confirmDragAndDrop": false,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "javascript.implicitProjectConfig.checkJs": true,
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "javascript.preferences.quoteStyle": "single",
+  "merge-conflict.diffViewPosition": "Below",
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "terminal.integrated.showExitAlert": false,
+
+  "typescript.preferences.quoteStyle": "single",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  "taskExplorer.enableExplorerView": false,
+  "taskExplorer.enableNpm": false,
+  "taskExplorer.enableSideBar": true,
+  "taskExplorer.enableTsc": false,
+
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

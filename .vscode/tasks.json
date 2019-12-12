@@ -1,0 +1,65 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "START: All DEV Sites & JSON Server",
+      "type": "shell",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "command": "echo 'Starting web & API projects...'",
+      "dependsOn": ["START: JSON Server", "START: Lodgement", "START: Management" ]
+    },
+    {
+      "label": "START: Lodgement",
+      "type": "npm",
+      "group": "build",
+      "script": "start:l",
+      "problemMatcher": [],
+      // "presentation": {
+      //   "echo": true,
+      //   "reveal": "always",
+      //   "focus": false,
+      //   "panel": "shared",
+      //   "showReuseMessage": true,
+      //   "clear": false,
+      //   "group": "dev server"
+      // }
+    },
+    {
+      "label": "START: Management",
+      "type": "npm",
+      "group": "build",
+      "script": "start:m",
+      "problemMatcher": [],
+      // "presentation": {
+      //   "echo": true,
+      //   "reveal": "always",
+      //   "focus": false,
+      //   "panel": "shared",
+      //   "showReuseMessage": true,
+      //   "clear": false,
+      //   "group": "dev server"
+      // }
+    },
+    {
+      "label": "START: JSON Server",
+      "type": "npm",
+      "group": "build",
+      "script": "start:json",
+      "problemMatcher": [],
+      // "presentation": {
+      //   "echo": true,
+      //   "reveal": "always",
+      //   "focus": false,
+      //   "panel": "shared",
+      //   "showReuseMessage": true,
+      //   "clear": false,
+      //   "group": "dev server"
+      // }
+    }
+  ]
+}
