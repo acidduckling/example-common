@@ -1,7 +1,8 @@
+<frl-header>
+  {{title}}
+</frl-header>
+
 <div class="container">
-    <h1>
-        Welcome to {{ title }}!
-    </h1>
     <div class="card">
         <div class="card-header h4">{{currentWidget.toUpperCase()}}</div>
         <div class="card-body">
@@ -18,5 +19,14 @@
         <div class="col-6">
             <button class="btn btn-primary btn-block" (click)="loadComponent('list')">Load List Component</button>
         </div>
+    </div>
+
+    <div>
+      <h2>Grid</h2>
+      <frl-grid [data]="gridData">
+        <frl-grid-column [boundProperty]="'col1'" [title]="'I am column 1'"></frl-grid-column>
+        <frl-grid-column [boundProperty]="'col2'" [title]="'I am column 2'"></frl-grid-column>
+        <frl-grid-column [boundProperty]="'col3'" [title]="'I am column 3'"></frl-grid-column>
+      </frl-grid>
     </div>
 </div>

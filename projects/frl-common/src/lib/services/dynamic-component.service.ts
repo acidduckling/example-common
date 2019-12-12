@@ -1,5 +1,5 @@
 import { ComponentFactoryResolver, Injectable, ViewContainerRef } from '@angular/core';
-import { WIDGET_REGISTRY } from '../components/widget-registry';
+import { WIDGET_REGISTRY } from '../decorators/register-widget';
 
 @Injectable()
 export class DynamicComponentService {

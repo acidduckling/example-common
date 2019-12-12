@@ -1,5 +1,5 @@
 import { Component, ViewChild, ViewContainerRef, OnInit } from '@angular/core';
-import { DynamicComponentService } from 'frl-common';
+import { DynamicComponentService } from '@frl/common';
 
 @Component({
   selector: 'frl-root',
